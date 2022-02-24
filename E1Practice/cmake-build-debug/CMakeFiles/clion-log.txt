@@ -1,0 +1,4 @@
+/Applications/CMake.app/Contents/bin/cmake -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=/Users/andreweells/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/213.6777.58/CLion.app/Contents/bin/ninja/mac/ninja" -DCMAKE_C_COMPILER=/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -DCMAKE_CXX_COMPILER=/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -G Ninja "/Users/andreweells/Dropbox/My Mac (Andrew’s MacBook Pro)/Documents/Class Files/2021-2022/SP22/CIS 308/E1Practice"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/andreweells/Dropbox/My Mac (Andrew’s MacBook Pro)/Documents/Class Files/2021-2022/SP22/CIS 308/E1Practice/cmake-build-debug
